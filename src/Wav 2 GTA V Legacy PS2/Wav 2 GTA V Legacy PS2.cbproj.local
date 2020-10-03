@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/03 19:06:19.000.319,=C:\Users\issei\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/03 19:06:19.000.572,=C:\Users\issei\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/03 19:09:07.000.109,C:\Users\issei\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.h=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Unit1.h</Transaction>
+    <Transaction>2020/09/03 19:09:07.000.109,C:\Users\issei\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Unit1.fmx</Transaction>
+    <Transaction>2020/09/03 19:09:07.000.109,C:\Users\issei\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Unit1.cpp</Transaction>
+    <Transaction>2020/09/03 19:09:08.000.840,C:\Users\issei\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/03 19:09:10.000.826,C:\Users\issei\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Project1.cbproj</Transaction>
+    <Transaction>2020/09/03 19:11:26.000.058,=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\endian.c</Transaction>
+    <Transaction>2020/09/03 19:11:26.000.035,=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\wav2vag.c</Transaction>
+    <Transaction>2020/09/03 19:11:26.000.073,=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\vag2wav.c</Transaction>
+    <Transaction>2020/09/03 19:12:33.000.052,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\vag2wav.c=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\vag2wav.c</Transaction>
+    <Transaction>2020/09/03 19:12:40.000.903,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\wav2vag.c=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\wav2vag.c</Transaction>
+    <Transaction>2020/09/03 19:12:49.000.247,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\endian.c=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\endian.c</Transaction>
+    <Transaction>2020/09/03 19:42:55.000.082,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\wav2vag.h=</Transaction>
+    <Transaction>2020/09/03 19:43:28.000.830,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\endian.h=</Transaction>
+    <Transaction>2020/09/03 19:43:49.000.011,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\vag2wav.h=</Transaction>
+    <Transaction>2020/09/03 23:58:22.000.748,=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\OPLUtil version information.h</Transaction>
+    <Transaction>2020/09/04 00:38:54.000.895,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav to Vag.cbproj=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Project1.cbproj</Transaction>
+    <Transaction>2020/09/04 00:38:54.000.755,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav to VagPCH1.h=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/06 20:10:42.000.945,=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\MFAudio.h</Transaction>
+    <Transaction>2020/09/06 20:17:17.000.260,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\MFAudio.h=</Transaction>
+    <Transaction>2020/09/07 01:41:21.000.472,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav 2 GTA V: Legacy PS2 - by Issei Yoshida  |  https:\www.facebook.cbproj=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav to Vag.cbproj</Transaction>
+    <Transaction>2020/09/07 02:02:10.000.494,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav to VagPCH1.h=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav 2 GTA V Legacy PS2PCH1.h</Transaction>
+    <Transaction>2020/09/07 02:02:11.000.853,C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav to Vag.cbproj=C:\Users\issei\OneDrive\Área de Trabalho\WAV2VAG\Wav 2 GTA V Legacy PS2.cbproj</Transaction>
+    <Transaction>2020/09/08 02:23:18.000.411,=C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\File1.h</Transaction>
+    <Transaction>2020/09/08 02:24:06.000.151,C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\StringGridOptions.h=C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\File1.h</Transaction>
+    <Transaction>2020/09/11 03:19:06.000.084,=C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\File1.h</Transaction>
+    <Transaction>2020/09/11 03:20:25.000.588,C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\frags01.h=C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\File1.h</Transaction>
+    <Transaction>2020/09/11 03:21:18.000.754,C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\version information.h=C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\OPLUtil version information.h</Transaction>
+    <Transaction>2020/09/11 03:21:44.000.619,C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\vhersion information.h=C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\version information.h</Transaction>
+    <Transaction>2020/09/11 03:21:52.000.711,C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\Version information.h=C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\vhersion information.h</Transaction>
+    <Transaction>2020/09/11 04:07:13.000.287,C:\Users\issei\OneDrive\Área de Trabalho\Wav 2 GTA V Legacy PS2\StringGridOptions.h=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="android-support-v4.dex.jar"/>
+    <File Path="cloud-messaging.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-base.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-identifier.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads-lite.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-ads.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-analytics.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-base.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-basement.16.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-gass.17.2.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-identity.16.0.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-maps.16.1.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-base.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-measurement-sdk-api.16.4.0.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-stats.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tagmanager-v4-impl.16.0.8.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-tasks.16.0.1.dex.jar"/>
+    <File Path="com-google-android-gms.play-services-wallet.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-analytics.16.4.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-common.16.1.0.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid-interop.16.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-iid.17.1.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-measurement-connector.17.0.1.dex.jar"/>
+    <File Path="com-google-firebase.firebase-messaging.17.5.0.dex.jar"/>
+    <File Path="fmx.dex.jar"/>
+    <File Path="google-play-billing.dex.jar"/>
+    <File Path="google-play-licensing.dex.jar"/>
+    <File Path="Wav 2 GTA V Legacy PS2PCH1.h"/>
+    <File Path="Wav 2 GTA V Legacy PS2.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.fmx"/>
+    <File Path="Unit1.h"/>
+    <File Path="Version information.h"/>
+    <File Path="frags01.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
